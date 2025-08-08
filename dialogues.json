@@ -40,10 +40,6 @@
     "tags": ["mass", "tamil", "short"]
   },
   {
-    "text": "Enna koduma Saravanan idhu?",
-    "tags": ["comedy", "tamil", "short"]
-  },
-  {
     "text": "Muthalil naan oru rasikaan.",
     "tags": ["emotional", "tamil", "short"]
   },
@@ -78,10 +74,6 @@
   {
     "text": "Thallu maala.",
     "tags": ["trending", "malayalam"]
-  },
-  {
-    "text": "En vazhi thani vazhi.",
-    "tags": ["mass", "philosophical", "tamil", "short"]
   },
   {
     "text": "Appo… puriyala… ippo… puriyuthu.",
@@ -132,14 +124,6 @@
     "tags": ["friendship", "tamil", "short"]
   },
   {
-    "text": "Adhaaram naanum adhaaram neeyum.",
-    "tags": ["mass", "tamil", "short"]
-  },
-  {
-    "text": "Namma vazhkkai namma kaiyila.",
-    "tags": ["philosophical", "tamil", "short"]
-  },
-  {
     "text": "Karyam paranja bhayangara thamashaya.",
     "tags": ["comedy", "malayalam"]
   },
@@ -162,10 +146,6 @@
   {
     "text": "Oottakk vazhivetti vannathda.",
     "tags": ["mass", "malayalam", "trending"]
-  },
-  {
-    "text": "Nee enna paathiyaa? Naa enna paathiyaa?",
-    "tags": ["comedy", "tamil", "trending"]
   },
   {
     "text": "Enaku irundha ore oru santhosam, ipo adhum poiduchu.",
@@ -194,13 +174,5 @@
   {
     "text": "Unn paarva enakku 'Current'-u, unn pesu enakku 'Voltage'-u. Naan unna 'shock' aakkuren, nee enna 'shock' aakkaren.",
     "tags": ["pickup line", "romantic", "tamil"]
-  },
-  {
-    "text": "Nee oru 'kaappi' aano? Naan unna 'sundaram' aakkuren, 'sundaram' aakkuren...",
-    "tags": ["pickup line", "comedy", "tamil"]
-  },
-  {
-    "text": "Unna paakumbothu, enna 'Thani Oruvan' maari feel aagudhu...",
-    "tags": ["pickup line", "mass", "tamil"]
   }
 ]
