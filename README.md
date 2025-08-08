@@ -30,32 +30,29 @@ For Software:
 - VScode,git,Github,Gloq API,ChatGPT
 
 ### Implementation
-For Software:
-# Installation
-[python]
+For Software: 
+  Implementation: Developed a Python Tkinter app that detects user mood from input, selects dialogues from JSON, and uses gTTS with pygame for speech.
+
+  Software: Used Python 3 with libraries Tkinter, gTTS, pygame, Pillow, and packaged the app as an executable via PyInstaller.
 
 # Run
-[commands]
-
-### Project Documentation
-For Software:
+python MassChatBot.py
 
 # Screenshots
-![Screenshot1](Add screenshot 1 here with proper name)
-*Code Snippet of main script*
+<img width="1365" height="698" alt="Screenshot 2025-08-09 044821" src="https://github.com/user-attachments/assets/95a085b1-df73-49bb-9d29-b60a8b08ca64" />
+Code Snippet of main script
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Here we see our UI with core malayalam characters blends in with our base idea. Due to time limitation we had to limit us to this instead of individual characters for their respective dialogues*
+<img width="1360" height="719" alt="Screenshot 2025-08-09 044605" src="https://github.com/user-attachments/assets/ac4e377b-307c-4673-b243-78a4244d0f88" />
+Here we see our UI with core malayalam characters blends in with our base idea. Due to time limitation we had to limit us to this instead of individual characters for their respective dialogues
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*This ilustrates an example of how our bot entertains you and makes your time FLY*
+<img width="1365" height="716" alt="Screenshot 2025-08-09 044736" src="https://github.com/user-attachments/assets/30a1a513-869b-4d27-923c-15b5dec49e27" />
+This ilustrates an example of how our bot entertains you and makes your time FLY
 
-![Final](Add photo of final product here)
-*Our dedicated bot for cinephiles*
+<img width="1365" height="719" alt="Screenshot 2025-08-09 044749" src="https://github.com/user-attachments/assets/f1ee5eaf-16c4-4d7e-9652-552a1572be87" />
+Our dedicated bot for cinephiles
 
 ### Project Demo
-# Video
-[Add your demo video link here]
+(https://drive.google.com/drive/folders/13a5BT3qRBZWDrbAkIWDag-ak9i3WNF4M?usp=drive_link)
 *It shows the working of our project*
 
 ---
